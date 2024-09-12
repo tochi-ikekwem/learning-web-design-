@@ -1,0 +1,28 @@
+/* body{
+    color: cyan;
+} */
+/* img{
+    width: 500px;
+    margin-bottom: 50px;
+} */
+
+.paragraph-one {
+    color: black;
+    background-color: blue;
+    font-size: 30px;
+}
+
+.text1 {
+    font-size: 20px;
+    padding: 10px;
+    background-color:gray
+    
+}
+
+.text3 {
+    font-size: 20px;
+    background-color: darkred;
+    margin-bottom: 30px;
+}
+    
+   
